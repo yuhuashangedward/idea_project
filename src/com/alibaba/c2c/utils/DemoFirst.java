@@ -1,4 +1,4 @@
-package com.alibaba.c2c;
+package com.alibaba.c2c.utils;
 
 
 
