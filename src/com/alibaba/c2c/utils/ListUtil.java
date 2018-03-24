@@ -7,6 +7,7 @@ public class ListUtil {
         System.err.println("Hello World !!!!");
         System.err.println("Heeloo world!!!!!");
         System.err.println("Hello rlxfklcgfbhl;g");
+        System.out.print("努力创造新希望！！！");
     }
 
 
