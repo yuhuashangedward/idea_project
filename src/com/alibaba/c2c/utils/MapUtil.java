@@ -54,7 +54,7 @@ public class MapUtil {
     }*/
 
     public static void main(String[] args) {
-        Map<String,Object> map = MapUtil.buildMap("email","2222@2.com","nickname","abc");
+        Map<String,Object> map = MapUtil.buildMap("email","yuhuashang.ok@aliyun.com","nickname","yuhuashang");
         System.out.println(map);
     }
 
